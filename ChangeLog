@@ -1,3 +1,8 @@
+Changes since 1.2
+- Updated by Quentin Quadrat https://github.com/Lecrapouille
+- Follow partially evolutions from minizip-ng
+- Fix memory issues and compilation warnings
+
 More changes since 1.1
 - Fixed support for 64bit builds for archives with "PKWARE" password.
 - Changed long, unsigned long, unsigned to unsigned int in 
